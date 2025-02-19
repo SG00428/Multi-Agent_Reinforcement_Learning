@@ -110,3 +110,7 @@ Possible improvements and extensions include:
 3. Optimizing performance for larger-scale simulations with more agents.
 
 ---
+
+## Reference 
+
+https://assets.amazon.science/4b/78/fde3f0284c5084977c8173392270/multi-agent-reinforcement-learning-for-resource-allocation-in-large-scale-robotic-warehouse-sortation-centers.pdf
