@@ -90,14 +90,6 @@ After training, performance metrics are saved in `logs/metrics.txt`. This file c
 - Number of successful episodes.
 - Total number of episodes trained.
 
-Example metrics file:
-
-final_avg_reward: 15.23
-best_reward: 25.0
-avg_steps: 180.5
-successful_episodes: 120
-total_episodes: 300
-
 ---
 
 ## Reference 
