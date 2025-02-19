@@ -34,22 +34,21 @@ This project requires the following dependencies:
 - Matplotlib
 - Seaborn
 
-To install the required dependencies, run:
-
 ---
 
 ## How to Run
 
 ### 1. Clone this repository
 
-git clone https://github.com/your_username/your_repository_name.git
-cd your_repository_name
+`git clone https://github.com/SG00428/Multi-Agent_Reinforcement_Learning.git`
+
+`cd Multi-Agent_Reinforcement_Learning`
 
 ### 2. Train the Agents
 
 To start training, run the following command:
 
-python train.py
+`python train.py`
 
 This will start the training process with default parameters (300 episodes). You can modify the number of episodes and other hyperparameters in the `train.py` file.
 
@@ -98,16 +97,6 @@ best_reward: 25.0
 avg_steps: 180.5
 successful_episodes: 120
 total_episodes: 300
-
----
-
-## Future Work
-
-Possible improvements and extensions include:
-
-1. Implementing more advanced MARL algorithms (e.g., QMIX, PPO).
-2. Enhancing the warehouse environment with additional features like dynamic obstacles or item pickups.
-3. Optimizing performance for larger-scale simulations with more agents.
 
 ---
 
