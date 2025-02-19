@@ -1,0 +1,5 @@
+final_avg_reward: 57.27563377127051
+best_reward: 161.23896899074316
+avg_steps: 93.0
+successful_episodes: 101
+total_episodes: 101
